@@ -1,0 +1,7 @@
+#!/bin/bash
+
+title=$1
+body=$2
+
+osascript -e 'display notification "'"$body"'" with title "'"$title"'"'
+
