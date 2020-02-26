@@ -11,6 +11,9 @@ Easy Notification Center notifications for your shell scripts [MacOS]
 ### 2) Usage
 Simply add this code to your shell scripts or paste  it in a Terminal window to test it:
 - `notify "title of the notification" "body of the notification"`
+
+  ![Screenshot](http://www.marcolino.net/github/screenshots/shell_notification_center.png)
+
 > Replace `title of the notification` and `body of the notification` with the text you would like to use.
 
 #### Enjoy! :)
