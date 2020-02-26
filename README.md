@@ -5,6 +5,7 @@ Easy Notification Center notifications for your shell scripts [MacOS]
 1. Download the `notify` script from this repository
 2. Open Terminal and enter the following commands:
    - `cd ~/Downloads/` (or whichever folder you have saved the `notify` script to)
+   - `chmod +x notify`
    - `sudo mv notify /usr/local/bin/`
    
 ### 2) Usage
